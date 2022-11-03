@@ -1,0 +1,135 @@
+.box {
+    width: 1000px;
+    height: 1000px;
+}
+
+.box .row1 {
+    width: 1000px;
+    height: 333.33px;
+    margin: 0 auto;
+}
+
+.box .row1 .col1 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+    background-color: blue;
+}
+
+.box .row1 .col2 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+    background-color: cornflowerblue;
+}
+
+.box .row1 .col3 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+    background-color: blueviolet;
+}
+
+.box .row2 {
+    width: 1000px;
+    height: 333.33px;
+    margin: 0 auto;
+}
+
+.box .row2 .col1 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+}
+
+.box .row2 .col1 .r1 {
+    width: 333.33px;
+    height: 166.665px;
+    background-color: darkgrey;
+}
+
+.box .row2 .col1 .r2 {
+    width: 333.33px;
+    height: 166.665px;
+    background-color: darkgoldenrod;
+}
+
+.box .row2 .col2 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+    background-color: coral;
+}
+
+.box .row2 .col3 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+}
+
+.box .row2 .col3 .r1 {
+    width: 333.33px;
+    height: 166.665px;
+    background-color: crimson;
+}
+
+.box .row2 .col3 .r2 {
+    width: 333.33px;
+    height: 166.665px;
+    background-color: cyan;
+}
+
+.box .row3 .col1 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+}
+
+.box .row3 .col1 .r1 {
+    width: 333.33px;
+    height: 111.111px;
+    background-color: darkred;
+}
+
+.box .row3 .col1 .r2 {
+    width: 333.33px;
+    height: 111.111px;
+    background-color: honeydew;
+}
+
+.box .row3 .col1 .r3 {
+    width: 333.33px;
+    height: 111.111px;
+    background-color: lawngreen;
+}
+
+.box .row3 .col2 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+    background-color: aqua;
+}
+
+.box .row3 .col3 {
+    float: left;
+    width: 333.33px;
+    height: 333.33px;
+}
+
+.box .row3 .col3 .r1 {
+    width: 333.33px;
+    height: 111.111px;
+    background-color: deeppink;
+}
+
+.box .row3 .col3 .r2 {
+    width: 333.33px;
+    height: 111.111px;
+    background-color: hotpink;
+}
+
+.box .row3 .col3 .r3 {
+    width: 333.33px;
+    height: 111.111px;
+    background-color: palevioletred;
+}
